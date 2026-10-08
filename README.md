@@ -62,3 +62,10 @@ The analysis is performed across the following dimensions:
 
 - SQL
 - Google BigQuery
+
+## Visualization
+
+The results were visualized in Looker Studio.
+
+[View the Looker Studio dashboard](https://datastudio.google.com/u/0/reporting/dae3180c-3b23-4864-b516-22d3125ffb72/page/tEnnC)
+
